@@ -1,7 +1,5 @@
 import pytest
 
-# from common.base import NotAwkwardBase
-
 class TestFake:
 
     @pytest.mark.initial_tests
